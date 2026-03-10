@@ -6,3 +6,4 @@ matplotlib~=3.10.8
 seaborn~=0.13.2
 scikit-learn~=1.8.0
 folium
+streamlit_folium
