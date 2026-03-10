@@ -6,7 +6,7 @@
 
 A machine learning web application that predicts house prices in California based on various regional and property-specific features. 
 
-> 🔴 **Live Demo:** [Click here to view the live web app!](https://house-price-prediction-cvakrhhlhwy2feyuycssbe.streamlit.app)
+> 🔴 **Live Demo:** [Click here to view the live web app!](https://house-price-prediction-wxrvlnt6pn47ajmpokhx5s.streamlit.app)
 
 ## 📖 Overview
 This project applies machine learning techniques to estimate housing prices. By analyzing geographical data, demographics, and housing attributes, the trained model can predict the median house value for specific California districts. 
@@ -25,3 +25,4 @@ The model was trained on the classic **California Housing Dataset**, which inclu
 - **Machine Learning:** Scikit-Learn
 - **Web Framework:** Streamlit
 - **Version Control:** Git & Git LFS (Large File Storage)
+
